@@ -1,4 +1,4 @@
-ABOUT THE DATASET
+# ABOUT THE DRUG CONSUMPTION DATASET
 
 The dataset (drug_consumption) used for the project includes research results conducted among 1885 participants. The data includes 13 features (inputs) consisting of participants' ID numbers, demographic information (age, gender, education, country, ethnicity) and results of various psychoanalytic tests (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, SS). Names of the psychological tests conducted and the values they measure:
 Nscore: Neuroticism
@@ -18,6 +18,7 @@ CL3: Used in Last Year
 CL4: Used in Last Month
 CL5: Used in Last Week
 CL6: Used in Last Day
+
 Data set link :  https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified
 
 * There is no missing data in the data set.
