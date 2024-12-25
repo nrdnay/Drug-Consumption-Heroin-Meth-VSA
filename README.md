@@ -1,8 +1,8 @@
 # About The Drug Consumption Dataset
 
 The dataset (drug_consumption) used for the project includes research results conducted among 1885 participants. The data includes 13 features (inputs) consisting of participants' ID numbers, demographic information (age, gender, education, country, ethnicity) and results of various psychoanalytic tests (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, SS). Names of the psychological tests conducted and the values they measure:
-**Nscore:** Neuroticism
-**Escore:** Extraversion
+**Nscore:** Neuroticism\
+**Escore:** Extraversion\
 **Oscore:** Openness
 **Ascore:** Agreeableness
 **Cscore:** Conscientiousness
