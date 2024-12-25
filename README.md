@@ -1,23 +1,23 @@
 # About The Drug Consumption Dataset
 
-The dataset (drug_consumption) used for the project includes research results conducted among 1885 participants. The data includes 13 features (inputs) consisting of participants' ID numbers, demographic information (age, gender, education, country, ethnicity) and results of various psychoanalytic tests (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, SS). Names of the psychological tests conducted and the values they measure:
+The dataset (drug_consumption) used for the project includes research results conducted among 1885 participants. The data includes 13 features (inputs) consisting of participants' ID numbers, demographic information (age, gender, education, country, ethnicity) and results of various psychoanalytic tests (Nscore, Escore, Oscore, Ascore, Cscore, Impulsive, SS). Names of the psychological tests conducted and the values they measure:\
 **Nscore:** Neuroticism\
 **Escore:** Extraversion\
-**Oscore:** Openness
-**Ascore:** Agreeableness
-**Cscore:** Conscientiousness
-**Impulsive:** Impulsiveness
-**SS:** Sensation seeking
+**Oscore:** Openness\
+**Ascore:** Agreeableness\
+**Cscore:** Conscientiousness\
+**Impulsive:** Impulsiveness\
+**SS:** Sensation seeking\
 Each feature contains numerical data, but each of these numbers represents a category. It does not carry a real numerical value. Psychology test results, education and age data represent ordered categorical variables, while gender, country and ethnicity data represent non-ordered categorical variables. .
 
 The data includes 19 targets (outputs) that provide information about the participants' consumption of addictive or narcotic substances. Each target consists of 6 separate categories that provide information about substance use. Explanations of the categories:
-**CL0:** Never Used
-**CL1:** Used over a Decade Ago
-**CL2:** Used in Last Decade
-**CL3:** Used in Last Year
-**CL4:** Used in Last Month
-**CL5:** Used in Last Week
-**CL6:** Used in Last Day
+**CL0:** Never Used\
+**CL1:** Used over a Decade Ago\
+**CL2:** Used in Last Decade\
+**CL3:** Used in Last Year\
+**CL4:** Used in Last Month\
+**CL5:** Used in Last Week\
+**CL6:** Used in Last Day\
 
 **Data set link :**  https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified
 
